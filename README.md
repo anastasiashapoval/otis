@@ -1,4 +1,2 @@
-#### otis
-# Шаповал Анастасія Павлівна 
-## ФІТ 1-16
-### anastasiah468@gmail.com
+# This repository has been created for education in DTEU
+## All works done by Anastasia Shapoval (FIT 1-16)
